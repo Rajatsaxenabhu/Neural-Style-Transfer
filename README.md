@@ -21,4 +21,6 @@ Dependencies:
 * [Tensorflow]
 * [openCV]
 
-This is not a trainable model.
+This is not a trainable model. Its just take two images as input one is content image and another is artistic image
+It extract the feature of artistic image and render on the content image.
+Presentation on netural_style_transfer <button>Click to download Presentation</button>
