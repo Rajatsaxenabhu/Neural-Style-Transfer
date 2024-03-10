@@ -1,6 +1,5 @@
-# Neural_style_Image_transfer
+# Neural_style_Image_transfer 
 
-[![DOI](https://zenodo.org/badge/142345353.svg)](https://zenodo.org/badge/latestdoi/142345353)
 
 This is a Tenserflow implementation of the paper [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)
 by Leon A. Gatys, Alexander S. Ecker, and Matthias Bethge. 
